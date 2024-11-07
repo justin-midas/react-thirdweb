@@ -1,0 +1,8 @@
+{
+  "name": "thirdweb-react-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ]
+}
